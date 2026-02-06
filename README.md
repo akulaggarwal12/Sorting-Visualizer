@@ -29,12 +29,12 @@ Ensure you have `g++` and the `raylib` development libraries installed on your s
 To compile the project, use the following command:
 
 ```bash
-g++ main.cpp -o army_visualizer -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+g++ Game.cpp -o Game -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
 ```
 ## Running
 
 ```bash
-./army_visualizer
+./Game
 ```
 
 ## 🎮 Controls
