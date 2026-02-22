@@ -589,7 +589,7 @@ int main()
             SelectionSort(army,wave,n);
             break;
         default:
-            cout << "Invalid Input";
+            cout << "Invalid Input, Enter 1, 2 or 3 only";
     }
     
     
